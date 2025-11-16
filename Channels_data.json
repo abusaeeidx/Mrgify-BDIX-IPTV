@@ -11,13 +11,13 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 247,
-    "last_update": "2025-11-16 08:02 PM (BD Time)"
+    "total_channels": 242,
+    "last_update": "2025-11-16 08:15 PM (BD Time)"
   },
   "channels": [
     {
-      "name": "Live Sports",
-      "url": "http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8",
+      "name": "T Sports HD 🇧🇩 📺 (1)",
+      "url": "http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8",
       "source": "Unknown"
     },
     {
@@ -66,21 +66,6 @@
       "source": "Unknown"
     },
     {
-      "name": "Live Sports",
-      "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
-      "source": "Unknown"
-    },
-    {
-      "name": "T Sports",
-      "url": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8",
-      "source": "Unknown"
-    },
-    {
-      "name": "Gazi TV",
-      "url": "http://172.20.3.1:81/GaziTVHD/tracks-v1a1/mono.m3u8",
-      "source": "Unknown"
-    },
-    {
       "name": "Gazi TV",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
       "source": "Unknown"
@@ -106,18 +91,8 @@
       "source": "Unknown"
     },
     {
-      "name": "Nagorik TV",
-      "url": "http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8",
-      "source": "Unknown"
-    },
-    {
       "name": "Bijoy TV",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8",
-      "source": "Unknown"
-    },
-    {
-      "name": "Channel 9",
-      "url": "http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8",
       "source": "Unknown"
     },
     {
