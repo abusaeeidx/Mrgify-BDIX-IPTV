@@ -11,8 +11,8 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 243,
-    "last_update": "2025-11-17 07:24 AM (BD Time)"
+    "total_channels": 244,
+    "last_update": "2025-11-17 08:35 AM (BD Time)"
   },
   "channels": [
     {
@@ -63,6 +63,11 @@
     {
       "name": "Live Sports",
       "url": "http://103.175.242.10:8080/sonyten5/index.m3u8",
+      "source": "Unknown"
+    },
+    {
+      "name": "BTV World",
+      "url": "http://103.230.105.252:1935/live/btv/manifest.m3u8",
       "source": "Unknown"
     },
     {
