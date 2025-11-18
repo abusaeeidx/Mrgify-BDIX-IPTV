@@ -11,10 +11,14 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 3,
-    "last_update": "2025-11-18 10:28 PM (BD Time)"
+    "total_channels": 4,
+    "last_update": "2025-11-18 10:54 PM (BD Time)"
   },
   "channels": [
+    {
+      "name": "Deshi TV (720p)",
+      "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    },
     {
       "name": "Duronto TV (720p)",
       "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
