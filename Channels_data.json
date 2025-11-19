@@ -11,8 +11,8 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 2,
-    "last_update": "2025-11-19 09:58 PM (BD Time)"
+    "total_channels": 3,
+    "last_update": "2025-11-19 10:36 PM (BD Time)"
   },
   "channels": [
     {
@@ -22,6 +22,10 @@
     {
       "name": "Boishakhi TV",
       "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
+    },
+    {
+      "name": "Ekushey TV (480p)",
+      "url": "https://ekusheyserver.com/etvlivesn.m3u8"
     }
   ]
 }
