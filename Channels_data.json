@@ -11,21 +11,17 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 3,
-    "last_update": "2025-11-21 09:49 PM (BD Time)"
+    "total_channels": 2,
+    "last_update": "2025-11-21 10:00 PM (BD Time)"
   },
   "channels": [
-    {
-      "name": "Deshi TV (720p)",
-      "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
-    },
     {
       "name": "Duronto TV (720p)",
       "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
     },
     {
-      "name": "Ekushey TV (480p)",
-      "url": "https://ekusheyserver.com/etvlivesn.m3u8"
+      "name": "Deshi TV (720p)",
+      "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
     }
   ]
 }
