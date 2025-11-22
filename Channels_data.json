@@ -11,13 +11,17 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 2,
-    "last_update": "2025-11-22 11:59 AM (BD Time)"
+    "total_channels": 3,
+    "last_update": "2025-11-22 12:37 PM (BD Time)"
   },
   "channels": [
     {
       "name": "Deshi TV (720p)",
       "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    },
+    {
+      "name": "T Sports (720p)",
+      "url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8"
     },
     {
       "name": "Ekushey TV (480p)",
