@@ -76,7 +76,7 @@ https://is.gd/mrgifytv
 ## 🖥️ Preview
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/image/Picsart_25-11-23_23-02-50-762%20(1).jpg" width="60%">
+ <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/image/Picsart_25-11-23_23-02-50-762%20(1).jpg" width="80">
 </p>
 
 
