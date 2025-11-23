@@ -1,7 +1,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/logo.png" alt="Mrgify-TV" width="70%">
+  <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" alt="Mrgify-TV" width="70%">
 </p>
 
 <h2 align="center">
