@@ -1,7 +1,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/logo.png" alt="Mrgify-TV" width="200">
+  <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/logo.png" alt="Mrgify-TV" width="80">
 </p>
 
 <h2 align="center">
@@ -60,7 +60,7 @@ Recommended Apps
 - NS Player
 - IPTV Smarters
 
-*All apps are available on Playstore.*
+- All apps are available on Playstore.
 ---
 
 *Playlist Link:*
@@ -102,8 +102,10 @@ https://github.com/abusaeeidx/Mrgify-BDIX-IPTV/raw/main/playlist.m3u
 ---
 ## 📌**Notice**  
 
-This project is specifically targeted for users in **Bangladesh** 🇧🇩  
+<h3 This project is specifically targeted for users in 
+**Bangladesh** 🇧🇩  
 Some channels may **only work within Bangladesh** due to regional restrictions 🌍🔐
+  </h3>
 ---
 ## ⚠️ Legal Notice
 
