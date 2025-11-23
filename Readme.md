@@ -19,11 +19,13 @@
   </a>
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?style=for-the-badge">
 </p>
+
 ---
+
 
 ## 📒 Introduction
 
-**Mrgify-Tv**(মার্জিফাই-টিভি) is a **BDIX-based IPTV playlist project** that provides access to **Bangladeshi 🇧🇩 and international 🌐 live TV channels**.  
+**Mrgify-Tv** (মার্জিফাই-টিভি) is a **BDIX-based IPTV playlist project** that provides access to **Bangladeshi 🇧🇩 and international 🌐 live TV channels**.  
 
 The playlist includes a wide range of **sports 🏏, news 📰, movies 🎬, and entertainment 🎵 channels**, optimized for **BDIX users** for smooth streaming experience.
 
