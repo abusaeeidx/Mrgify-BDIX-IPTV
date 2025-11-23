@@ -13,16 +13,12 @@
 </h2>
 
 <h4 align="center">Auto-updating BDIX IPTV Playlist System (Every 10 Minutes)</h4>
-
-  <a href="https://github.com/abusaeeidx/Mrgify-BDIX-IPTV/network/members">
-    <img src="https://img.shields.io/github/forks/abusaeeidx/Mrgify-BDIX-IPTV?style=for-the-badge">
-  </a>
+<p align="center">
   <a href="https://github.com/abusaeeidx/Mrgify-BDIX-IPTV">
     <img src="https://komarev.com/ghpvc/?username=abusaeeidx&label=VISITORS&style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?style=for-the-badge">
 </p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abusaeeidx.Mrgify-BDIX-IPTV)
 ---
 
 ## 📒 Introduction
