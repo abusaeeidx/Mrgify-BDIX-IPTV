@@ -125,3 +125,13 @@ Some channels may **only work within Bangladesh** due to regional restrictions ğ
 
 `bd-iptv` `bd-m3u` `bd-tv` `bangladesh-iptv` `bd-channel` `bangladesh-tv` `bd-live-tv` `bangladesh-live-tv` `bd-iptv-m3u` `bangladesh-iptv-m3u` `bd-iptv-playlist` `bangladesh-iptv-playlist` `bd-tv-channels` `bd-entertainment-tv` `bd-news-tv` `bd-sports-tv` `bd-movie-channels` `bd-tv-m3u` `bangladesh-tv-m3u` `iptv` `m3u` `m3u8` `live-tv` `tv-playlist` `hd-tv-bangladesh` `bd-digital-tv` `bangladesh-digital-tv` `bd-cable-tv` `bd-tv-online` `bangladesh-tv-online` `iptv-bangladesh` `bangladesh-live-channels` `bd-streaming` `bd-tv-stream` `bd-iptv-list` `bangladesh-iptv-list` `bd-hd-tv` `bangladesh-hd-tv` `bd-tv-app` `bd-tv-online-free` `bangladesh-tv-channels` `bd-entertainment-channels` `bd-sports-live` `bangladesh-movie-tv` `bd-news-live` `bangladesh-news-tv` `bd-live-stream` `bangladesh-live-stream`
 ---
+<details>
+<summary>ğŸ“Œ Tags (Click to view)</summary>
+
+`bd-iptv` `bd-m3u` `bd-tv` `bangladesh-iptv` `bd-channel` `bangladesh-tv` `bd-live-tv` `bangladesh-live-tv` `bd-iptv-m3u` `bangladesh-iptv-m3u`  
+`bd-iptv-playlist` `bangladesh-iptv-playlist` `bd-tv-channels` `bd-entertainment-tv` `bd-news-tv` `bd-sports-tv` `bd-movie-channels` `bd-tv-m3u` `bangladesh-tv-m3u`  
+`iptv` `m3u` `m3u8` `live-tv` `tv-playlist` `hd-tv-bangladesh` `bd-digital-tv` `bangladesh-digital-tv` `bd-cable-tv` `bd-tv-online` `bangladesh-tv-online`  
+`iptv-bangladesh` `bangladesh-live-channels` `bd-streaming` `bd-tv-stream` `bd-iptv-list` `bangladesh-iptv-list` `bd-hd-tv` `bangladesh-hd-tv` `bd-tv-app`  
+`bd-tv-online-free` `bangladesh-tv-channels` `bd-entertainment-channels` `bd-sports-live` `bangladesh-movie-tv` `bd-news-live` `bangladesh-news-tv` `bd-live-stream` `bangladesh-live-stream`
+
+</details>
