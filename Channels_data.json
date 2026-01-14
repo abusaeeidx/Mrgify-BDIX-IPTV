@@ -11,8 +11,8 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 8,
-    "last_update": "2026-01-14 08:39 PM (BD Time)"
+    "total_channels": 6,
+    "last_update": "2026-01-14 08:59 PM (BD Time)"
   },
   "channels": [
     {
@@ -28,24 +28,16 @@
       "url": "https://ekusheyserver.com/etvlivesn.m3u8"
     },
     {
-      "name": "Hindi Movies",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "name": "Doraemon",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
       "name": "Motu Patlu",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
     },
     {
-      "name": "South Movies",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
       "name": "Gopal Bhar",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "name": "Doraemon",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
     }
   ]
 }
