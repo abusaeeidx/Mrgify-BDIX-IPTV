@@ -11,8 +11,8 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 175,
-    "last_update": "2026-02-01 07:09 PM (BD Time)"
+    "total_channels": 177,
+    "last_update": "2026-02-01 07:53 PM (BD Time)"
   },
   "channels": [
     {
@@ -24,24 +24,28 @@
       "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
     },
     {
-      "name": "WAZ TV  Mizanur Rahman Azhari Waz",
-      "url": "https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8"
+      "name": "Ekushey TV (480p)",
+      "url": "https://ekusheyserver.com/etvlivesn.m3u8"
     },
     {
-      "name": "WAZ TV",
-      "url": "https://tplay.live/originals/ilm-tv/index.m3u8"
+      "name": "WAZ TV  Mizanur Rahman Azhari Waz",
+      "url": "https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8"
     },
     {
       "name": "Motor Vision",
       "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     },
     {
-      "name": "  ",
-      "url": "http://178.33.239.54:8080/507a/index.m3u8"
-    },
-    {
       "name": "24/7 Gopal Bhar",
       "url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8"
+    },
+    {
+      "name": "24/7 Motu Patlu",
+      "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
+    },
+    {
+      "name": "  ",
+      "url": "http://178.33.239.54:8080/507a/index.m3u8"
     },
     {
       "name": "Arena_Sport",
@@ -52,24 +56,20 @@
       "url": "http://178.23.88.55/Sport1/index.m3u8"
     },
     {
-      "name": "24/7 Motu Patlu",
-      "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
+      "name": "24/7 Shinchan",
+      "url": "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8"
     },
     {
       "name": "4/7 Doraemon",
       "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
     },
     {
-      "name": "24/7 Shinchan",
-      "url": "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8"
+      "name": "Bollywood Movies",
+      "url": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8"
     },
     {
       "name": "  ",
       "url": "http://cors.tundracast.com:2000/http://178.33.239.54:8080/507a/index.m3u8"
-    },
-    {
-      "name": "Bollywood Movies",
-      "url": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8"
     },
     {
       "name": "Kolkata Movies",
@@ -84,6 +84,14 @@
       "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
     },
     {
+      "name": "T SPORT HD",
+      "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"
+    },
+    {
+      "name": "Sharjah Sports",
+      "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8"
+    },
+    {
       "name": "TRT SPOR",
       "url": "https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8"
     },
@@ -92,32 +100,40 @@
       "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
     },
     {
-      "name": "  ",
-      "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"
-    },
-    {
-      "name": "PRO Sport International",
-      "url": "https://proshls.wns.live/hls/stream.m3u8"
+      "name": "WAZ TV",
+      "url": "https://tplay.live/originals/ilm-tv/index.m3u8"
     },
     {
       "name": "BBC Cbeebies",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
     },
     {
+      "name": "  ",
+      "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"
+    },
+    {
       "name": "RTA Sports HD",
       "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"
+    },
+    {
+      "name": "PRO Sport International",
+      "url": "https://proshls.wns.live/hls/stream.m3u8"
     },
     {
       "name": "Arabica TV",
       "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
     },
     {
-      "name": "Nick",
-      "url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
+      "name": "Live Quran TV",
+      "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8"
     },
     {
       "name": "DBC",
       "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
+    },
+    {
+      "name": "Nick",
+      "url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
     },
     {
       "name": "FM Radio",
@@ -128,132 +144,164 @@
       "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
     },
     {
-      "name": "",
-      "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"
-    },
-    {
       "name": "ALMASIRA MUBASHER",
       "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
     },
     {
-      "name": "A SPOR",
-      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
-    },
-    {
       "name": "",
-      "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+      "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"
     },
     {
       "name": "Madani Tv",
       "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
     },
     {
-      "name": "AL EKHBARIA",
-      "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
+      "name": "QURAN RADIOTV SMC",
+      "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
     },
     {
       "name": "Travel XP English NZ",
       "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8"
     },
     {
+      "name": "",
+      "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+    },
+    {
       "name": "Travel XP English",
       "url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"
     },
     {
-      "name": "Rongeen TV",
-      "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
+      "name": "AL EKHBARIA",
+      "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
     },
     {
-      "name": "AL QAMAR",
-      "url": "https://streamer3.premio.link/alqamar/playlist.m3u8"
-    },
-    {
-      "name": "Destination America",
-      "url": "http://fl1.moveonjoy.com/Destination_America/index.m3u8"
-    },
-    {
-      "name": "DISNEY JR",
-      "url": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
-    },
-    {
-      "name": "France News 24",
-      "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8"
-    },
-    {
-      "name": "ZB Cartoon",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    },
-    {
-      "name": "REAL WILD",
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8"
+      "name": "A SPOR",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
     },
     {
       "name": "Insight",
       "url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
     },
     {
-      "name": "DW NEWS",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
-    },
-    {
-      "name": "AL ISTIQAMA",
-      "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
-    },
-    {
-      "name": "pcv",
-      "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
+      "name": "Destination America",
+      "url": "http://fl1.moveonjoy.com/Destination_America/index.m3u8"
     },
     {
       "name": "T Global News (Canada)",
       "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
     },
     {
-      "name": "Global News (US)",
-      "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8"
+      "name": "AL QAMAR",
+      "url": "https://streamer3.premio.link/alqamar/playlist.m3u8"
     },
     {
-      "name": "DW English",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1"
+      "name": "DISNEY JR",
+      "url": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
     },
     {
-      "name": "BAHRAIN QURAN",
-      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
+      "name": "Rongeen TV",
+      "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
     },
     {
-      "name": "DW English _",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-    },
-    {
-      "name": "T SPORT HD",
-      "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"
+      "name": "ZB Cartoon",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "name": "Peace Tv English",
       "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
     },
     {
-      "name": "AL EKHBARIA",
-      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
+      "name": "REAL WILD",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8"
     },
     {
-      "name": "Iran International(EN)",
-      "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8"
+      "name": "France 24 English (720p)",
+      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
+    },
+    {
+      "name": "pcv",
+      "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
+    },
+    {
+      "name": "DW English _",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+    },
+    {
+      "name": "AL ISTIQAMA",
+      "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
+    },
+    {
+      "name": "DW English",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1"
+    },
+    {
+      "name": "Global News (US)",
+      "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8"
+    },
+    {
+      "name": "DW NEWS",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
+    },
+    {
+      "name": "France News 24",
+      "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8"
+    },
+    {
+      "name": "News Max 2",
+      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
     },
     {
       "name": "CNN (US)",
       "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
     },
     {
-      "name": "Live Sports",
-      "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+      "name": "BAHRAIN QURAN",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
     },
     {
       "name": "Live Sports",
       "url": "https://starsportshindiii.pages.dev/index.m3u8"
     },
     {
+      "name": "Live Sports",
+      "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+    },
+    {
+      "name": "Quran",
+      "url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3"
+    },
+    {
+      "name": "NDTV NEWS",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
+    },
+    {
+      "name": "AL EKHBARIA",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
+    },
+    {
+      "name": "FOX NEWS",
+      "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
+    },
+    {
+      "name": "NDTV English",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
+    },
+    {
       "name": "Colors Infinity SD",
       "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+    },
+    {
+      "name": "Iran International(EN)",
+      "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8"
+    },
+    {
+      "name": "ATN Music",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
+    },
+    {
+      "name": "Colors HD",
+      "url": "https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8"
     },
     {
       "name": "TRT World",
@@ -261,179 +309,143 @@
     },
     {
       "name": "FASHION ONE",
-      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8"
-    },
-    {
-      "name": "FASHION ONE",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8"
     },
     {
-      "name": "FOX NEWS",
-      "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
-    },
-    {
-      "name": "NDTV NEWS",
-      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
-    },
-    {
-      "name": "NTV UK",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8"
-    },
-    {
-      "name": "Quran",
-      "url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3"
-    },
-    {
-      "name": "News Max 2",
-      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
-    },
-    {
-      "name": "NDTV Hindi",
-      "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
-    },
-    {
-      "name": "Channel S UK HD",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
-    },
-    {
-      "name": "Green TV",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8"
-    },
-    {
-      "name": "QURAN RADIOTV SMC",
-      "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
+      "name": "FASHION ONE",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8"
     },
     {
       "name": "Arihant TV",
       "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8"
     },
     {
-      "name": "ATN Music",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
+      "name": "NDTV Hindi",
+      "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
     },
     {
-      "name": "France 24 English (720p)",
-      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
+      "name": "NTV UK",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8"
     },
     {
-      "name": "Colors HD",
-      "url": "https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8"
+      "name": "Green TV",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8"
+    },
+    {
+      "name": "Channel S UK HD",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
     },
     {
       "name": "Madani TV",
       "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8"
     },
     {
-      "name": "Sharjah Sports",
-      "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8"
-    },
-    {
-      "name": "RT NEWS USA",
-      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1"
-    },
-    {
-      "name": "RT News (EN)",
-      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
-    },
-    {
       "name": "BTV World",
       "url": "http://103.230.105.252:1935/live/btv/manifest.m3u8"
-    },
-    {
-      "name": "CNBC Indonesia (EN)",
-      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
     },
     {
       "name": "Nagorik TV",
       "url": "http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8"
     },
     {
-      "name": "B4U Movies",
-      "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8"
-    },
-    {
       "name": "Sheemaroo Bollywood",
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
     },
     {
-      "name": "Nat Geo HD",
-      "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8"
-    },
-    {
-      "name": "NDTV English",
-      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
-    },
-    {
-      "name": "France 24",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8"
-    },
-    {
-      "name": "Hindi Hits HD",
-      "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
-    },
-    {
-      "name": "R Plus Gold",
-      "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8"
-    },
-    {
-      "name": "BPL 2026",
-      "url": "https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "Action Hollywood Movies",
-      "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
-    },
-    {
-      "name": "Kolkata TV",
-      "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
-    },
-    {
-      "name": "CGTN News",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8"
-    },
-    {
-      "name": "AAKASH AATH",
-      "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
+      "name": "CNBC Indonesia (EN)",
+      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
     },
     {
       "name": "RTNEWS GLOBAL",
       "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1"
     },
     {
+      "name": "CGTN News",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8"
+    },
+    {
+      "name": "Action Hollywood Movies",
+      "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
+    },
+    {
+      "name": "France 24",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8"
+    },
+    {
+      "name": "RT News (EN)",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
+    },
+    {
+      "name": "Hindi Hits HD",
+      "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
+    },
+    {
+      "name": "RT NEWS USA",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1"
+    },
+    {
+      "name": "R Plus Gold",
+      "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8"
+    },
+    {
+      "name": "Nat Geo HD",
+      "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8"
+    },
+    {
       "name": "YRF Music HD",
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
     },
     {
-      "name": "Live Quran TV",
-      "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8"
+      "name": "B4U Movies",
+      "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8"
+    },
+    {
+      "name": "BPL 2026",
+      "url": "https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8"
     },
     {
       "name": "Peace TV Urdu",
       "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
     },
     {
-      "name": "ATV HD",
-      "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
+      "name": "AAKASH AATH",
+      "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
     },
     {
-      "name": "Goldmines",
-      "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+      "name": "ATV HD",
+      "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
     },
     {
       "name": "B4U Kadak",
       "url": "https://cdn-2.pishow.tv/live/227/master.m3u8"
     },
     {
+      "name": "FOX NEWS",
+      "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Goldmines",
+      "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+    },
+    {
       "name": "Goldmines Movies",
       "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
+    },
+    {
+      "name": "TRT 1",
+      "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8"
+    },
+    {
+      "name": "TRT TURK",
+      "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
     },
     {
       "name": "Goldmines Movies 2",
       "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
     },
     {
-      "name": "TRT TURK",
-      "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
+      "name": "BBC NEWS",
+      "url": "http://45.148.145.57/IN_BN/index.m3u8"
     },
     {
       "name": "R Plus News",
@@ -444,40 +456,20 @@
       "url": "http://208.86.19.13:81/514.stream/index.m3u8"
     },
     {
-      "name": "FOX NEWS",
-      "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
-    },
-    {
-      "name": "BBC NEWS",
-      "url": "http://45.148.145.57/IN_BN/index.m3u8"
+      "name": "Epic",
+      "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8"
     },
     {
       "name": "Star Sports-1 Hindi",
       "url": "https://starsportshindiii.pages.dev/360p.m3u8"
     },
     {
-      "name": "Sky News",
-      "url": "https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd"
-    },
-    {
-      "name": "TRT 2 HD",
-      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
-    },
-    {
       "name": "SONY SAB",
       "url": "http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809"
     },
     {
-      "name": "Epic",
-      "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8"
-    },
-    {
       "name": "Dangal",
       "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
-    },
-    {
-      "name": "Baallee",
-      "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "name": "Movies Thriller",
@@ -488,8 +480,16 @@
       "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8"
     },
     {
-      "name": "TRT 1",
-      "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8"
+      "name": "Baallee",
+      "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "name": "TRT 2 HD",
+      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+    },
+    {
+      "name": "Sky News",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd"
     },
     {
       "name": "My Cinema",
@@ -502,10 +502,6 @@
     {
       "name": "KIX",
       "url": "http://93.184.10.248/MBCBollywood/index.m3u8"
-    },
-    {
-      "name": "M4 SPORTS",
-      "url": "http://dvr1.kablova.tv/M4/index.m3u8"
     },
     {
       "name": "MTR Sports-1",
@@ -524,14 +520,6 @@
       "url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8"
     },
     {
-      "name": "StarJalsha HD",
-      "url": "https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts"
-    },
-    {
-      "name": "ZB Kartun",
-      "url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
       "name": "ZB Cinema",
       "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8"
     },
@@ -540,32 +528,44 @@
       "url": "https://mumt03.tangotv.in/DHOOM/index.m3u8"
     },
     {
+      "name": "ZB Kartun",
+      "url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "name": "StarJalsha HD",
+      "url": "https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts"
+    },
+    {
       "name": "Food Food",
       "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
-    },
-    {
-      "name": "TSports HD",
-      "url": "https://mrgifytv.pages.dev/bpl/tsports/index.m3u8"
-    },
-    {
-      "name": "Colors Cineplex HD",
-      "url": "https://cdn-2.pishow.tv/live/228/228_1.m3u8"
-    },
-    {
-      "name": "ASports",
-      "url": "https://mrgifytv.pages.dev/bpl/asports/index.m3u8"
-    },
-    {
-      "name": "Premium Sports",
-      "url": "https://7pal.short.gy/prsport1"
     },
     {
       "name": "Premium Sports-2",
       "url": "https://7pal.short.gy/prsport2"
     },
     {
+      "name": "Premium Sports",
+      "url": "https://7pal.short.gy/prsport1"
+    },
+    {
+      "name": "TSports HD",
+      "url": "https://mrgifytv.pages.dev/bpl/tsports/index.m3u8"
+    },
+    {
+      "name": "Kolkata TV",
+      "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
+    },
+    {
       "name": "8X music",
       "url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
+    },
+    {
+      "name": "ASports",
+      "url": "https://mrgifytv.pages.dev/bpl/asports/index.m3u8"
+    },
+    {
+      "name": "Colors Cineplex HD",
+      "url": "https://cdn-2.pishow.tv/live/228/228_1.m3u8"
     },
     {
       "name": "RTA SPORTS",
@@ -576,20 +576,32 @@
       "url": "http://79.127.243.211:14473/"
     },
     {
-      "name": "BhiChannel",
-      "url": "http://15.235.185.236/hls/bhi.m3u8"
+      "name": "M4 SPORTS",
+      "url": "http://dvr1.kablova.tv/M4/index.m3u8"
     },
     {
-      "name": "BeinSports Xtra",
-      "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+      "name": "BhiChannel",
+      "url": "http://15.235.185.236/hls/bhi.m3u8"
     },
     {
       "name": "AstroCricket",
       "url": "http://178.33.239.54:8080/503a/index.m3u8"
     },
     {
-      "name": "Pardesi TV",
-      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+      "name": "Horse& Country",
+      "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "BeinSports Xtra",
+      "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+    },
+    {
+      "name": "TNS Sports-1",
+      "url": "https://7pal.short.gy/tntspts1"
+    },
+    {
+      "name": "MK Six",
+      "url": "https://cdn-3.pishow.tv/live/1253/master.m3u8"
     },
     {
       "name": "StarJalsha HD",
@@ -600,96 +612,92 @@
       "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
     },
     {
-      "name": "TNS Sports-2",
-      "url": "https://7pal.short.gy/tntspts2"
-    },
-    {
       "name": "Colors HD",
       "url": "http://217.20.112.199:8888/ColorsHD/index.m3u8"
-    },
-    {
-      "name": "LoveDoes",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8"
-    },
-    {
-      "name": "MK Six",
-      "url": "https://cdn-3.pishow.tv/live/1253/master.m3u8"
-    },
-    {
-      "name": "Horse& Country",
-      "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
-    },
-    {
-      "name": "Gopal Bhar",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "name": "SonyTV",
-      "url": "http://217.20.112.199/sethd/index.m3u8"
-    },
-    {
-      "name": "SonySab",
-      "url": "http://217.20.112.199:8888/sabtvhd/index.m3u8"
-    },
-    {
-      "name": "NTV",
-      "url": "https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8"
-    },
-    {
-      "name": "Willow HD",
-      "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
-    },
-    {
-      "name": "TNS Sports-3",
-      "url": "https://7pal.short.gy/tntspts3"
     },
     {
       "name": "Yrf Music",
       "url": "https://ultrashort.info/bwswWI"
     },
     {
+      "name": "TNS Sports-3",
+      "url": "https://7pal.short.gy/tntspts3"
+    },
+    {
+      "name": "LoveDoes",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8"
+    },
+    {
+      "name": "Gopal Bhar",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "name": "SonySab",
+      "url": "http://217.20.112.199:8888/sabtvhd/index.m3u8"
+    },
+    {
+      "name": "TNS Sports-2",
+      "url": "https://7pal.short.gy/tntspts2"
+    },
+    {
+      "name": "Pardesi TV",
+      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "name": "NTV",
+      "url": "https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+    },
+    {
+      "name": "SonyTV",
+      "url": "http://217.20.112.199/sethd/index.m3u8"
+    },
+    {
+      "name": "Willow HD",
+      "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
+    },
+    {
       "name": "TraceSport",
       "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
-    },
-    {
-      "name": "Aakash Aath",
-      "url": "https://ultrashort.info/Z7cEes"
-    },
-    {
-      "name": "Star Jalsha HD",
-      "url": "https://ultrashort.info/5yLqax"
-    },
-    {
-      "name": "AkashAath",
-      "url": "https://cdn-4.pishow.tv/live/969/969_1.m3u8"
-    },
-    {
-      "name": "BhojpuriCinema",
-      "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
-    },
-    {
-      "name": "Histoire HD",
-      "url": "http://151.80.18.177:86/Histoire/index.m3u8"
-    },
-    {
-      "name": "RTL9 HD",
-      "url": "http://151.80.18.177:86/RTL9/index.m3u8"
-    },
-    {
-      "name": "TF1 HD",
-      "url": "http://151.80.18.177:86/TF1_HD/index.m3u8"
     },
     {
       "name": "MusicTV",
       "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
     },
     {
-      "name": "B4u Music",
-      "url": "http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.ts"
+      "name": "Star Jalsha HD",
+      "url": "https://ultrashort.info/5yLqax"
     },
     {
       "name": "Radio BBC",
       "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8"
+    },
+    {
+      "name": "AkashAath",
+      "url": "https://cdn-4.pishow.tv/live/969/969_1.m3u8"
+    },
+    {
+      "name": "Histoire HD",
+      "url": "http://151.80.18.177:86/Histoire/index.m3u8"
+    },
+    {
+      "name": "Aakash Aath",
+      "url": "https://ultrashort.info/Z7cEes"
+    },
+    {
+      "name": "TF1 HD",
+      "url": "http://151.80.18.177:86/TF1_HD/index.m3u8"
+    },
+    {
+      "name": "RTL9 HD",
+      "url": "http://151.80.18.177:86/RTL9/index.m3u8"
+    },
+    {
+      "name": "B4u Music",
+      "url": "http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.ts"
+    },
+    {
+      "name": "BhojpuriCinema",
+      "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
     },
     {
       "name": "30AMusic",
@@ -698,6 +706,10 @@
     {
       "name": "Makka TV",
       "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
+    },
+    {
+      "name": "Motu Patlu",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "name": "Doraemon",
@@ -710,10 +722,6 @@
     {
       "name": "Hindi Movies",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "name": "Motu Patlu",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
     }
   ]
 }
