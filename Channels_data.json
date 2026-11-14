@@ -11,8 +11,8 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 41,
-    "last_update": "2026-11-14 03:34 AM (BD Time)"
+    "total_channels": 43,
+    "last_update": "2026-11-14 07:44 AM (BD Time)"
   },
   "channels": [
     {
@@ -28,10 +28,6 @@
       "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
     },
     {
-      "name": "Maasranga TV (720p)",
-      "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
-    },
-    {
       "name": "RTV (720p)",
       "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
     },
@@ -40,12 +36,20 @@
       "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
     },
     {
+      "name": "Rajdhani TV (1080p)",
+      "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+    },
+    {
+      "name": "Maasranga TV (720p)",
+      "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
+    },
+    {
       "name": "Nexus TV (576p)",
       "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
     },
     {
-      "name": "Rajdhani TV (1080p)",
-      "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+      "name": "Duronto TV (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8"
     },
     {
       "name": "Ekushey TV (480p)",
@@ -56,28 +60,24 @@
       "url": "http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8"
     },
     {
-      "name": "Ananda TV",
-      "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8"
-    },
-    {
       "name": "ATN News",
       "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
     },
     {
-      "name": "Bein Sports Extra 2",
-      "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
-    },
-    {
-      "name": "Boishakhi TV",
-      "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
+      "name": "Ananda TV",
+      "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8"
     },
     {
       "name": "BTV Chattogram",
       "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8"
     },
     {
-      "name": "MTRSPT",
-      "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
+      "name": "Boishakhi TV",
+      "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
+    },
+    {
+      "name": "Bein Sports Extra 2",
+      "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
     },
     {
       "name": "Channel I",
@@ -92,16 +92,28 @@
       "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
     },
     {
-      "name": "Global TV",
-      "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
-    },
-    {
       "name": "Desh TV",
       "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
     },
     {
+      "name": "MTRSPT",
+      "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
+    },
+    {
       "name": "Ekushe ETV",
       "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
+    },
+    {
+      "name": "Pardesi TV",
+      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "name": "Sony TV HD",
+      "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
+    },
+    {
+      "name": "Global TV",
+      "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
     },
     {
       "name": "Willow Extra",
@@ -116,48 +128,40 @@
       "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
     },
     {
-      "name": "Sony TV HD",
-      "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
-    },
-    {
-      "name": "Pardesi TV",
-      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-    },
-    {
       "name": "My TV",
       "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8"
-    },
-    {
-      "name": "Shemaroo Bollywood",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
     },
     {
       "name": "Hindi Hits HD",
       "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
     },
     {
-      "name": "DW",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+      "name": "SA TV",
+      "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
     },
     {
       "name": "A Sports",
       "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
     },
     {
-      "name": "Music TV",
-      "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
-    },
-    {
-      "name": "Cricket Gold",
-      "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8"
-    },
-    {
       "name": "Bhojpuri Cinema",
       "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
     },
     {
+      "name": "Music TV",
+      "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
+    },
+    {
       "name": "Trace Sport",
       "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Shemaroo Bollywood",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+    },
+    {
+      "name": "Cricket Gold",
+      "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8"
     },
     {
       "name": "Radio BBC",
@@ -170,6 +174,10 @@
     {
       "name": "Rongeen TV",
       "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "name": "DW",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
     },
     {
       "name": "Animal Planet HD",
